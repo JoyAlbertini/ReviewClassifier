@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The First Purge",
+  "url": "https://www.imdb.com/tt6133466/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+  "description": "America&apos;s third political party, the New Founding Fathers of America, comes to power and conducts an experiment: no laws for 12 hours on Staten Island. No one has to stay on the island, but $5,000 is given to anyone who does.",
+  "review": {
+    "author": "aidanratesmovies",
+    "dateCreated": "2021-01-31",
+    "inLanguage": "English",
+    "heading": "Sigh...what a waste of potential",
+    "reviewBody": "It&apos;s a dreadful bore, with poor writing, and an incredibly forced depiction of the Black side of this fictional movement. Everything the film tries to start anew feels so out of place and none of it amounts to anything remotely interesting, while everything else feels like a forced tie in product to the other films before it, never directly addressing them, but largely relying on similar setups and situations that the other ones have already dealt with. The acting is incredibly over the top, the screenplay even more so, never knowing what it quite wants to be or wants to say. The direction is harsh, the tone and look of the film bleak, and it never decides on whether it wants to be a trip to empowerment or a social commentary, both of which the film pulls off poorly. The music is forced, the characters thin, and I can&apos;t think of many things positive about the film besides potential that the film so poorly executed. In the end, The First Purge is not only a pointless sequel, but a truly lackluster film, with no agenda but to accumulate some more money for this seemingly never ending franchise. My Rating: 2.5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 71357,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "16",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2018-07-04",
+  "keywords": "abuse of power,social injustice,resistance movement,church,political oppression",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Y&apos;lan Noel",
+      "url": "https://www.imdb.com/name/nm5002057/"
+    },
+    {
+      "name": "Lex Scott Davis",
+      "url": "https://www.imdb.com/name/nm6280112/"
+    },
+    {
+      "name": "Joivan Wade",
+      "url": "https://www.imdb.com/name/nm4725341/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gerard McMurray",
+      "url": "https://www.imdb.com/name/nm2618764/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James DeMonaco",
+      "url": "https://www.imdb.com/name/nm0218621/"
+    }
+  ]
+}
